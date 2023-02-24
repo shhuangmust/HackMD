@@ -15,7 +15,7 @@ HackMD使用教學
 - [色塊強調](https://hackmd.io/@shhuangmust/3N3n23SVTFOkQiQCYwpw4w)
     - [隨堂作業：色塊強調](https://hackmd.io/@shhuangmust/JEn2dNbOR-qYTg-wrtu4Yw)
 - [自訂文字顏色](https://hackmd.io/@shhuangmust/LTcgJnE2TR6fnScho9Do4A)
-- [快速打出emogi](https://hackmd.io/@shhuangmust/SVSMRXv9Sj6rpg5WuY2kXA)
+- [快速打出emoji](https://hackmd.io/@shhuangmust/SVSMRXv9Sj6rpg5WuY2kXA)
 - [表格](https://hackmd.io/@shhuangmust/1ClBmn16QnWfWr8RSW8J9g)
 - [標籤](https://hackmd.io/@shhuangmust/rk54HTIWq)
 - [程式碼](https://hackmd.io/@shhuangmust/h32qFThHTquJGdYRyvFQsw#/)
